@@ -1,5 +1,8 @@
-## <p align="center">![Comited Logo](./ComitedLogo.png)</p><br>![Comited](#)
+# <p align="center">![Comited Logo](./ComitedLogo.png)<br><br>![Comited](#)</p>
 
+## What is Comited?
+
+Comited is a simple, intuitive and hackable viewer for all of you commits in a repositry, organisation or individual.
 <!--
 
 **Here are some ideas to get you started:**
