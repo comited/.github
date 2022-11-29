@@ -3,6 +3,14 @@
 ## What is Comited?
 
 Comited is a simple, intuitive and hackable viewer for all of you commits in a repositry, organisation or individual.
+
+### Where is it?
+
+Comited is currently under development and will be finished soon!
+
+## Support
+
+Contact me directly at lachlan@jowett.net.au or create a discussion or issue on the official repo at [Repo](https://github.com/comited/comited)
 <!--
 
 **Here are some ideas to get you started:**
