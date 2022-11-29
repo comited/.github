@@ -1,4 +1,4 @@
-## <p class="centered">[Comited Logo](https://)</p>
+## <p class="centered">[Comited Logo](./ComitedLogo.png)</p>
 
 <!--
 
