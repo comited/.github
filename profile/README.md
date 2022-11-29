@@ -1,4 +1,4 @@
-## <p class="centered">[Comited Logo](./ComitedLogo.png)</p>
+## <p align="center">![Comited Logo](./ComitedLogo.png)</p><br>![Comited](#)
 
 <!--
 
