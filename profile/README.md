@@ -1,4 +1,4 @@
-## Hi there 👋
+## <p class="centered">[Comited Logo](https://)</p>
 
 <!--
 
