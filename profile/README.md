@@ -1,4 +1,4 @@
-# <p align="center">![Comited Logo](./profile/ComitedLogo.png)<br><br>![Comited](#)</p>
+# <p align="center">![Comited Logo](./profile/ComitedLogo.png)<br><br>![**Comited**](#)</p>
 
 ## What is Comited?
 
